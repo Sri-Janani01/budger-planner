@@ -8,6 +8,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
 **🔗 Live Demo:** [sri-janani01.github.io/budget-planner](https://sri-janani01.github.io/budget-planner) 
+
 **📁 Repository:** [github.com/Sri-Janani01/budget-planner](https://github.com/Sri-Janani01/budget-planner)
 
 ---

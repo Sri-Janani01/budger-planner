@@ -7,7 +7,7 @@
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://react.dev)
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
-> ⚠️ This app requires a local backend to run — see Getting Started below.  
+**🔗 Live Demo:** [sri-janani01.github.io/budget-planner](https://sri-janani01.github.io/budget-planner) 
 **📁 Repository:** [github.com/Sri-Janani01/budget-planner](https://github.com/Sri-Janani01/budget-planner)
 
 ---

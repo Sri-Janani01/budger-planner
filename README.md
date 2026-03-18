@@ -13,15 +13,6 @@
 
 ---
 
-## 📸 Preview
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Transactions
-![Transactions](screenshots/transactions.png)
-
----
 
 ## ✨ Features
 
